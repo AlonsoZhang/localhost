@@ -1,0 +1,180 @@
+.none {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-FAMILY: sans-serif, "Verdana", "Arial"; COLOR: #444444; FONT-SIZE: 12px
+}
+TEXTAREA {
+	FONT-FAMILY: sans-serif, "Verdana", "Arial"; COLOR: #444444; FONT-SIZE: 12px
+}
+SELECT {
+	FONT-FAMILY: sans-serif, "Verdana", "Arial"; COLOR: #666666; FONT-SIZE: 12px
+}
+.note {
+	FONT-FAMILY: sans-serif, "Verdana", "Arial"; FONT-SIZE: 11px
+}
+.top-bg {
+	BACKGROUND-IMAGE: url(../img/top_bg.jpg); BACKGROUND-REPEAT: repeat-x; FONT-SIZE: 1px
+}
+.main-bg {
+	BACKGROUND-IMAGE: url(../img/main_bg.gif); BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: right 50%
+}
+.c-button {
+	BORDER-BOTTOM: #888888 1px solid; BORDER-LEFT: #888888 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: sans-serif, "Arial"; HEIGHT: 20px; COLOR: #666666; FONT-SIZE: 11px; BORDER-TOP: #888888 1px solid; BORDER-RIGHT: #888888 1px solid; PADDING-TOP: 2px
+}
+.c-button A:link {
+	COLOR: #666666
+}
+.c-button A:visited {
+	COLOR: #666666
+}
+.c-button A:hover {
+	COLOR: #666666
+}
+.c-input {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; FONT-FAMILY: sans-serif, "Verdana", "Arial", "Helvetica"; MARGIN-BOTTOM: 0px; FONT-SIZE: 12px; PADDING-TOP: 1px
+}
+.top-menu {
+	BACKGROUND-IMAGE: url(../img/menu_line.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right 50%; COLOR: #444444; FONT-SIZE: 13px
+}
+.top-menu A:link {
+	COLOR: #444444
+}
+.top-menu A:visited {
+	COLOR: #444444
+}
+.top-menu A:hover {
+	COLOR: #336699
+}
+.content-title {
+	FONT-FAMILY: sans-serif, "Arial"; COLOR: #000000; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.content-text1 {
+	LINE-HEIGHT: 22px; FONT-FAMILY: sans-serif, "Arial"; COLOR: #666666; FONT-SIZE: 12px
+}
+.content-text1 A:link {
+	COLOR: #666666
+}
+.content-text1 A:visited {
+	COLOR: #666666
+}
+.content-text1 A:hover {
+	COLOR: #666666
+}
+.content-text2 {
+	LINE-HEIGHT: 22px; FONT-FAMILY: sans-serif, "Arial"; COLOR: #999999; FONT-SIZE: 12px
+}
+.content-text2 A:link {
+	COLOR: #999999
+}
+.content-text2 A:visited {
+	COLOR: #999999
+}
+.content-text2 A:hover {
+	COLOR: #999999
+}
+.content-text3 {
+	LINE-HEIGHT: 22px; BACKGROUND-COLOR: #eeeeee; FONT-FAMILY: sans-serif, "Arial"; COLOR: #000000; FONT-SIZE: 12px
+}
+.content-text3 A:link {
+	COLOR: #000000
+}
+.content-text3 A:visited {
+	COLOR: #000000
+}
+.content-text3 A:hover {
+	COLOR: #000000
+}
+.content-text4 {
+	LINE-HEIGHT: 22px; FONT-FAMILY: sans-serif, "Arial"; COLOR: #333333; FONT-SIZE: 12px
+}
+.content-text4 A:link {
+	COLOR: #333333
+}
+.content-text4 A:visited {
+	COLOR: #333333
+}
+.content-text4 A:hover {
+	COLOR: #333333
+}
+.content-text5 {
+	LINE-HEIGHT: 22px; FONT-FAMILY: sans-serif, "Arial"; COLOR: #ff0000; FONT-SIZE: 12px
+}
+.content-text5 A:link {
+	COLOR: #ff0000
+}
+.content-text5 A:visited {
+	COLOR: #ff0000
+}
+.content-text5 A:hover {
+	COLOR: #ff0000
+}
+.table_1 {
+	LINE-HEIGHT: 22px; BACKGROUND-COLOR: #dddddd; COLOR: #333333; FONT-SIZE: 12px
+}
+.table_1 A:link {
+	COLOR: #333333
+}
+.table_1 A:visited {
+	COLOR: #333333
+}
+.table_1 A:hover {
+	COLOR: #333333
+}
+.table_2 {
+	LINE-HEIGHT: 22px; BACKGROUND-COLOR: #e7e7e7; COLOR: #666666; FONT-SIZE: 12px
+}
+.table_2 A:link {
+	COLOR: #666666
+}
+.table_2 A:visited {
+	COLOR: #666666
+}
+.table_2 A:hover {
+	COLOR: #666666
+}
+.table_3 {
+	LINE-HEIGHT: 22px; BACKGROUND-COLOR: #f5f5f5; COLOR: #666666; FONT-SIZE: 12px
+}
+.table_3 A:link {
+	COLOR: #666666
+}
+.table_3 A:visited {
+	COLOR: #666666
+}
+.table_3 A:hover {
+	COLOR: #666666
+}
+.table_height_3px {
+	HEIGHT: 3px; FONT-SIZE: 2px
+}
+.table_height_6px {
+	HEIGHT: 6px; FONT-SIZE: 2px
+}
+.table_height_10px {
+	HEIGHT: 10px; FONT-SIZE: 2px
+}
+.table_height_15px {
+	HEIGHT: 15px; FONT-SIZE: 2px
+}
+.table_height_20px {
+	HEIGHT: 20px; FONT-SIZE: 2px
+}
+.table_height_25px {
+	HEIGHT: 25px; FONT-SIZE: 2px
+}
+.table_height_30px {
+	HEIGHT: 30px; FONT-SIZE: 2px
+}
+.line1 {
+	BORDER-BOTTOM: #888888 1px dashed; HEIGHT: 10px; FONT-SIZE: 2px
+}
+TD.label {
+	LINE-HEIGHT: 22px; BACKGROUND-COLOR: #e4f7fe; FONT-FAMILY: sans-serif, "Arial"; COLOR: #666666; FONT-SIZE: 12px
+}
+.pre-wrap1 {
+	WORD-WRAP: break-word; WORD-BREAK: break-all
+}
+.content-text-white-bg {
+	BACKGROUND-COLOR: #ffffff
+}
